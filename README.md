@@ -7,7 +7,7 @@ Dự án E-commerce của chúng em cung cấp một nền tảng thương mại
 ## Tính năng chính
 
 - **Danh mục sản phẩm đa dạng**: Quần áo, phụ kiện thời trang, giày dép, v.v.
-- **Thiết kế giao diện thân thiện**: Giao diện trực quan, dễ sử dụng, tối ưu hóa cho cả thiết bị di động và máy tính.
+- **Thiết kế giao diện thân thiện**: Giao diện trực quan, dễ sử dụng.
 - **Cập nhật xu hướng thời trang**: Thường xuyên cập nhật các bộ sưu tập mới nhất.
 - **Dịch vụ khách hàng**: Tư vấn trực tuyến, chính sách đổi trả linh hoạt.
 
@@ -52,7 +52,7 @@ cd TH_PTHTTTNT
 ### Bước 5: Chạy dự án
 
 1. Mở trình duyệt và truy cập `http://localhost/TH_PTHTTTNT`.
-2. Trang web của bạn sẽ được hiển thị và bạn có thể bắt đầu duyệt các sản phẩm thời trang.
+2. Trang web của mọi người sẽ được hiển thị và bạn có thể bắt đầu duyệt các sản phẩm thời trang.
 
 ## Sử dụng
 
@@ -63,7 +63,7 @@ cd TH_PTHTTTNT
 
 ## Đóng góp
 
-Chúng tôi luôn hoan nghênh các đóng góp từ cộng đồng. Để đóng góp cho dự án, hãy làm theo các bước sau:
+Chúng em luôn hoan nghênh các đóng góp từ cộng đồng. Để đóng góp cho dự án, hãy làm theo các bước sau:
 
 1. Fork repository này.
 2. Tạo một nhánh mới (`git checkout -b feature/your-feature`).
@@ -75,10 +75,4 @@ Chúng tôi luôn hoan nghênh các đóng góp từ cộng đồng. Để đón
 
 Dự án này được cấp phép theo giấy phép MIT - xem tệp [LICENSE](LICENSE) để biết thêm chi tiết.
 
-## Liên hệ
-
-- **Email**: your-email@example.com
-- **Trang web**: [your-website.com](http://your-website.com)
-- **Facebook**: [facebook.com/yourpage](http://facebook.com/yourpage)
-
-Cảm ơn bạn đã quan tâm đến dự án của chúng tôi!
+Cảm ơn thầy đã quan tâm đến dự án của chúng em!
